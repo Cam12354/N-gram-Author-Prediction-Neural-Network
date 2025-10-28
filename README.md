@@ -75,4 +75,4 @@ Avg. Correct Predictions	5 / 5
 Training Time	~45–60s (CPU)
 Dataset Size	~5000 data points per author
 
-Notably, stylistic overlap between E.B. Browning and S. Coleridge occasionally leads to misclassifications — an interesting insight into feature overlap in textual style.
+Notably, stylistic overlap between E.B. Browning and S. Coleridge occasionally leads to misclassifications, an interesting insight into feature overlap in textual style. (This has sparked my interest in contextual overlapping within LLM systems and Contextually Aware LLMs!)
