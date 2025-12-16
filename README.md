@@ -74,6 +74,8 @@ Metric	Performance
 
 
 Note: This is a project for LING 441 @ University of Michigan - Please do not copy this for your project as it will be considered Plagariasm! Feel free to reach out if you have any questions
+
+
 Avg. Correct Predictions	5 / 5
 Training Time	~45–60s (CPU)
 Dataset Size	~5000 data points per author
